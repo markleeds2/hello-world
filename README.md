@@ -1,2 +1,4 @@
 # hello-world
-My FIrst Repository On Github
+My First Repository On Github
+
+I Hope To Improve My Github Skills 
